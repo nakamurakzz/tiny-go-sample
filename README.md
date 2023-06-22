@@ -1,5 +1,7 @@
 # tiny-go-sample
 
+## Wio Terminal
+
 ## macropad
 ### TinyGoのインストール
 https://tinygo.org/getting-started/install/macos/
